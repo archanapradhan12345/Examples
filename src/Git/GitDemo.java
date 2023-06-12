@@ -8,6 +8,7 @@ public class GitDemo {
 	
 				
 				System.out.println("Hi GitHub");
+				System.out.println("Bye GitHub");
 
 			}
 
